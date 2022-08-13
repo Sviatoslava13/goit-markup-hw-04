@@ -135,6 +135,7 @@ button{
 }
 /* effect*/
 .hero { max-width: 1600px;
+  margin: 0 auto;
   padding-top: 200px;
   padding-bottom: 200px;
   text-align: center;
@@ -145,7 +146,6 @@ button{
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center;
-  margin: 0 auto;
 }
 .hero-title,
 .section-our {
